@@ -2,7 +2,6 @@
 
 A Python desktop application for preparing and managing expenditure release warrants. This portfolio edition is isolated from the operational WMS data folder and uses fictional catalogue entries, beneficiaries, organizations, dates, and amounts.
 
-> **Demonstration only.** The sample warrant pages and bundled `warrant_data.db` contain fictional data. Do not use this edition to issue real warrants. Confirm you have permission to publish any source, branding, or third-party materials before making the repository public. Font license notices are retained in `fonts/licenses/`.
 
 ## Sample output
 
