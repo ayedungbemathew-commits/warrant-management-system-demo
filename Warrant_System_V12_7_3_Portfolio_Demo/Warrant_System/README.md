@@ -80,4 +80,3 @@ The V12.7.3 release suite previously passed 73 tests with `ResourceWarning`s tre
 
 Portfolio edition based on WMS **12.7.3**. See [`CHANGELOG.md`](CHANGELOG.md) for release notes.
 
-No project reuse license is declared here. Do not assume permission to reuse or redistribute the application. The font license notices in `fonts/licenses/` apply to those font files.
